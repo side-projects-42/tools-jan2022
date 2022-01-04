@@ -1,0 +1,21 @@
+{
+	"name": "goodnight",
+	"version": "0.2.3",
+	"description": "Apply CSS styles depending on date or time.",
+	"keywords": ["goodnight", "css", "styles", "plugin", "night", "date", "time"],
+
+	"main": "goodnight.js",
+	"ignore": [
+		".jshintrc",
+		"Gruntfile.js",
+		"README.md",
+		"demo/"
+	],
+
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/JaredCubilla/goodnight.git"
+	},
+
+	"license": "MIT"
+}
